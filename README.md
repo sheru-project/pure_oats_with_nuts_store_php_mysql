@@ -165,7 +165,7 @@ oats-store/
 └── oats-product.jpg
 ⚙️ Installation
 1. Clone the Repository
-git clone https://github.com/YOUR-USERNAME/oats-store-php-mysql.git
+git clone https://github.com/sheru-project/pure_oats_with_nuts_store_php_mysql.git
 
 Move into the project directory:
 
